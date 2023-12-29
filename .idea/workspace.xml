@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fda55cc5-a330-44ea-9b82-fc23156a323a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/дз за 29 12/main 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/дз за 29 12/main.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/дз за 29 12/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="fda55cc5-a330-44ea-9b82-fc23156a323a" name="Changes" comment="дз за 29 12" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -95,6 +86,15 @@
       <option name="presentableId" value="Default" />
       <updated>1703757783098</updated>
     </task>
+    <task id="LOCAL-00001" summary="дз за 29 12">
+      <option name="closed" value="true" />
+      <created>1703819970281</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703819970281</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -107,6 +107,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="дз за 29 12" />
+    <option name="LAST_COMMIT_MESSAGE" value="дз за 29 12" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
