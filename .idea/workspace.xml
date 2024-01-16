@@ -5,9 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fda55cc5-a330-44ea-9b82-fc23156a323a" name="Changes" comment="дз за 29 12">
-      <change afterPath="$PROJECT_DIR$/дз за 29 12/дз за 12 01 24/5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/дз за 29 12/дз за 12 01 24/6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12 01 24/7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 01 24/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 01 24/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 01 24/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16 01 24/4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09.01.24/12 01 24/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/12 01 24/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09.01.24/12 01 24/2.py" beforeDir="false" afterPath="$PROJECT_DIR$/12 01 24/2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09.01.24/12 01 24/3.py" beforeDir="false" afterPath="$PROJECT_DIR$/12 01 24/3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09.01.24/12 01 24/4.py" beforeDir="false" afterPath="$PROJECT_DIR$/12 01 24/4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09.01.24/12 01 24/5.py" beforeDir="false" afterPath="$PROJECT_DIR$/12 01 24/5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09.01.24/12 01 24/6.py" beforeDir="false" afterPath="$PROJECT_DIR$/12 01 24/6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/16 01 24/7.py" beforeDir="false" afterPath="$PROJECT_DIR$/16 01 24/7.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,21 +33,22 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2aAOAv3mZzpB6Nv2KGjGQwLacNE" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Python.5.executor": "Run",
-    "Python.6.executor": "Run",
     "Python.main 2.executor": "Run",
     "Python.main.3.executor": "Run",
     "Python.main.executor": "Run",
@@ -44,18 +56,19 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "D:/информатика",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Barkov2\12 01 24" />
+      <recent name="C:\Barkov2" />
       <recent name="C:\Users\Виктор\PycharmProjects\pythonProject\дз за 29 12" />
     </key>
   </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pythonProject" />
-      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -102,11 +115,11 @@
     </task>
     <task id="LOCAL-00002" summary="дз за 29 12">
       <option name="closed" value="true" />
-      <created>1703820199628</created>
+      <created>1705361380286</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1703820199628</updated>
+      <updated>1705361380286</updated>
     </task>
     <option name="localTasksCounter" value="3" />
     <servers />
