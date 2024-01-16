@@ -3,7 +3,7 @@ b = int(input())
 v = int(input())
 if a == b and b == v:
     print('Одиннаковый')
-elif a >=b and a >= v:
+elif a >= b and a >= v:
     if a == b:
         print('Антон и Борис')
     elif a == v:
@@ -24,6 +24,3 @@ elif v >= b and v >= a:
         print('Виктор и Антон')
     else:
         print('Виктор')
-
-
-

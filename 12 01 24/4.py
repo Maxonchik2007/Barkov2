@@ -5,5 +5,3 @@ elif b > c and b > a:
     print(b)
 elif c > b and c > b:
     print(c)
-
-
