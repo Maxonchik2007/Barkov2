@@ -1,11 +1,8 @@
-N = int(input('N='))
-MKX = N
-N = N**2
-for i in range(1, N):
-    a = i**2
-    print('afor',a)
-    if a % 100 == i:
-        print(i)
-
-
+n = int(input("Введите N:"))
+for i in range(1, n+1):
+    b = 1
+    while i >= b:
+        b = b * 10
+        if i * i % b == i:
+            print(f'{i} * {i} =', i * i)
 
