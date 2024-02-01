@@ -1,0 +1,166 @@
+Index: 19 01 24/3.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/19 01 24/3.py b/19 01 24/3.py
+new file mode 100644
+--- /dev/null	(date 1705914841691)
++++ b/19 01 24/3.py	(date 1705914841691)
+@@ -0,0 +1,16 @@
++n = int(input('Введите число N:\n'))
++s = [1,1]
++p = 0
++f = 0
++o = 2
++while f < n:
++    f = s[p] + s[p+1]
++    s.append(f)
++    p += 1
++    o+= f
++    if s[p + 1] +f>=n:
++        break
++print(o)
++
++
++
+Index: 19 01 24/9.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/19 01 24/9.py b/19 01 24/9.py
+new file mode 100644
+--- /dev/null	(date 1705915000843)
++++ b/19 01 24/9.py	(date 1705915000843)
+@@ -0,0 +1,6 @@
++x, y, p = [int(i) for i in input('Введите три целых числа\n').split()]
++g = 0
++while x <= y:
++    x += y
++    g += 1
++print(g)
+\ No newline at end of file
+Index: 23 01 24/6.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/23 01 24/6.py b/23 01 24/6.py
+new file mode 100644
+--- /dev/null	(date 1706170873075)
++++ b/23 01 24/6.py	(date 1706170873075)
+@@ -0,0 +1,9 @@
++a = int(input('Введите начало отрезка: '))
++b = int(input('Введите конец отрезка: '))
++c = int(input('Введите шаг: '))
++y = 0
++for x in range(b, a - 1, c):
++    y = (x ** 3 ) + 2 * (x ** 2) - (4 * x) + 1
++    print('В точке ',x, 'функция равна ', y)
++
++
+Index: 23 01 24/8.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/23 01 24/8.py b/23 01 24/8.py
+new file mode 100644
+--- /dev/null	(date 1706170424756)
++++ b/23 01 24/8.py	(date 1706170424756)
+@@ -0,0 +1,5 @@
++n = int(input())
++factorial = 1
++for i in range(2, n + 1):
++    factorial *= i
++print(factorial)
+Index: 23 01 24/3.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/23 01 24/3.py b/23 01 24/3.py
+new file mode 100644
+--- /dev/null	(date 1706172244090)
++++ b/23 01 24/3.py	(date 1706172244090)
+@@ -0,0 +1,8 @@
++n = int(input("Введите N:"))
++for i in range(1, n+1):
++    b = 1
++    while i >= b:
++        b = b * 10
++        if i * i % b == i:
++            print(f'{i} * {i} =', i * i)
++
+Index: 23 01 24/9.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/23 01 24/9.py b/23 01 24/9.py
+new file mode 100644
+--- /dev/null	(date 1706171987953)
++++ b/23 01 24/9.py	(date 1706171987953)
+@@ -0,0 +1,11 @@
++n = int(input("Введите натуральное число:"))
++p = int(input("Введите целое число:"))
++s = 0
++for i in range(n):
++    bi = int(input("Введите целое число b" + str(i + 1) + ":"))
++    s += bi
++if s < p:
++    print("Верно.")
++else:
++    print("Неверно.")
++
+Index: 23 01 24/7.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/23 01 24/7.py b/23 01 24/7.py
+new file mode 100644
+--- /dev/null	(date 1706169848139)
++++ b/23 01 24/7.py	(date 1706169848139)
+@@ -0,0 +1,10 @@
++d = 0
++s = 0
++x = 1
++for i in range(1, 101):
++    k = 1/i
++    d = d + x * k * (-1) ** (i - 1)
++    s = s + x * k
++    x = k
++    print('На каком расстоянии от дома будет находиться мужчина после 100-го этапа', d)
++    print('какой общий путь он при этом пройдет.', s)
+\ No newline at end of file
+Index: 23 01 24/10.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/23 01 24/10.py b/23 01 24/10.py
+new file mode 100644
+--- /dev/null	(date 1706172360547)
++++ b/23 01 24/10.py	(date 1706172360547)
+@@ -0,0 +1,18 @@
++b = int(input('Введите кол-во мальчиков: '))
++g = int(input('Введите кол-во девочек: '))
++answer = ''
++if (b > 2 * g) or (g > 2 * b):
++    print('Нет решения.')
++elif b >= g:
++    k = b - g
++    for i in range(k):
++        answer += 'BGB'
++    for i in range(g - k):
++        answer += 'BG'
++else:
++    k = g - b
++    for i in range(k):
++        answer += 'GBG'
++    for i in range(b - k):
++        answer += 'GB'
++print(answer)
+\ No newline at end of file
