@@ -5,7 +5,7 @@ def check_apartment(cost, area):
         return "Квартира подходит"
     else:
         return "Квартира не подходит"
-    cost = float(input("Введите стоимость квартиры:"))
-    area = float(input("Введите площадь квартиры:"))
-    result = check_apartment(cost, area)
-    print(result)
+cost = float(input("Введите стоимость квартиры:"))
+area = float(input("Введите площадь квартиры:"))
+result = check_apartment(cost, area)
+print(result)

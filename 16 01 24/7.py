@@ -1,6 +1,9 @@
-a = int(input())
-b = a - (a // 5) * 5
-if b > 3 or b == 0:
-    print('красный')
+hours = int(input("Введите отработанные часы:"))
+clothes_expenses = int(input("Введите трату на одежду:"))
+food_expenses = int(input("Введите траты на еду:"))
+salary = (250 * hours) / 2 ** 3 + hours
+total_expenses =  clothes_expenses + food_expenses
+if salary >= total_expenses:
+    print("Часов хватает. Можно отдохнуть")
 else:
-    print('зеленый')
+    print("Часов не хватает. Придется работать больше!")
