@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fda55cc5-a330-44ea-9b82-fc23156a323a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/16 01 24/8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16 01 24/9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/практическая 7/уравнение прямой.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_01_2024_10_15_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_12_01_2024_10_15__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16 01 24/7.py" beforeDir="false" afterPath="$PROJECT_DIR$/16 01 24/7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/дз за 29 12/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/дз за 29 12/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/дз за 29 12/дз за 12 01 24/5.py" beforeDir="false" afterPath="$PROJECT_DIR$/09.01.24/kr/5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/дз за 29 12/дз за 12 01 24/6.py" beforeDir="false" afterPath="$PROJECT_DIR$/09.01.24/kr/6.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,18 +37,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.main 2.executor": "Run",
-    "Python.main.3.executor": "Run",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/информатика",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.main 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/информатика&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Barkov2\09.01.24\kr" />
@@ -60,7 +57,49 @@
       <recent name="C:\Users\Виктор\PycharmProjects\pythonProject\дз за 29 12" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.5">
+  <component name="RunManager">
+    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/19 01 24" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/19 01 24/1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2.14" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/09.01.24/kr" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09.01.24/kr/2.14.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -147,6 +186,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1" />
+        <item itemvalue="Python.2.14" />
         <item itemvalue="Python.5" />
         <item itemvalue="Python.6" />
         <item itemvalue="Python.9" />
@@ -193,7 +234,47 @@
       <option name="project" value="LOCAL" />
       <updated>1705364732722</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="16/01/24">
+      <option name="closed" value="true" />
+      <created>1705366884780</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1705366884780</updated>
+    </task>
+    <task id="LOCAL-00005" summary="16/01/24">
+      <option name="closed" value="true" />
+      <created>1705367748259</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1705367748259</updated>
+    </task>
+    <task id="LOCAL-00006" summary="16/01/24">
+      <option name="closed" value="true" />
+      <created>1705616290605</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1705616290606</updated>
+    </task>
+    <task id="LOCAL-00007" summary="16/01/24">
+      <option name="closed" value="true" />
+      <created>1705972575797</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1705972575797</updated>
+    </task>
+    <task id="LOCAL-00008" summary="16/01/24">
+      <option name="closed" value="true" />
+      <created>1706577148653</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1706577148653</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
